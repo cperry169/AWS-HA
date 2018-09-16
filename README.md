@@ -1,10 +1,9 @@
 # AWS-HA
 
-1.3 Overview of this project
-<br/>
-Launch a simple API utilizing automation and AWS best practices.
+## 1.3 Overview of this project
+- Launch a simple API utilizing automation and AWS best practices.
 
-1.4 REQUIREMENTS
+## 1.4 REQUIREMENTS
 
 ### DynamoDB table
 - Must contain multiple unique records (sample structure provided below, you may
