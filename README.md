@@ -1,7 +1,5 @@
 # AWS-HA
 
-# AWS-HA
-
 1.3 Overview of this project
 <br/>
 Launch a simple API utilizing automation and AWS best practices.
