@@ -24,8 +24,8 @@ determine your own schema as desired)
 ```html {
 “id”: “5”,
 “details” {
-“firstName”: “<VALUE>”,
-“lastName”: “<VALUE>” }
+“firstName”: “VALUE”,
+“lastName”: “VALUE” }
 }
 ```  
 
